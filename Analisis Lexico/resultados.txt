@@ -1,0 +1,4 @@
+Palabra 'alto': 1 ocurrencias.
+Palabra 'viva': 1 ocurrencias.
+Palabra 'persona': 1 ocurrencias.
+Palabra 'cielo': 0 ocurrencias.
